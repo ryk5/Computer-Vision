@@ -1,0 +1,7 @@
+Penny Count: 70
+Dime Count: 0
+Nickel Count: 17
+Quarter Count: 35
+Half Count: 0
+Silver Count: 0
+Total Sum: $10.3
